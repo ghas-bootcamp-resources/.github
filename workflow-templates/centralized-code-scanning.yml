@@ -15,7 +15,7 @@ jobs:
   # This job calls the centralized code scanning workflow
   scanning:
     # Need to update this line with our own organization and workflow file(s)
-    uses: octodemo/security-workflows/.github/workflows/code-scanning.yml@main
+    uses: YOUR-ORGANIZATION/reusable-workflows/.github/workflows/code-scanning.yml@main
     
     secrets: inherit
     
