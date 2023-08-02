@@ -23,4 +23,4 @@ Ah, aren't you an eager beaver 😉.  Typically, this is a classroom delivered l
 Each of the repositories inside this org represent a different learning module.  Take some time going through each of the repos to see what kind of cool things you'll learn.  Maybe try starting with the `code-scanning` repo.
 
 ## Where can I find help?
-The last thing we want is for you to feel left behind!  PLEASE ask your instructor if you have any questions throughout this session.  Most of us are are really nice and would prefer you to interrupt us with questions (except Keith, he's a huge jerk).  
+The last thing we want is for you to feel left behind!  PLEASE ask your instructor if you have any questions throughout this session.  Most of us are are really nice and would prefer you to interrupt us with questions.  
