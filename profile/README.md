@@ -15,12 +15,10 @@ In this bootcamp session, we'll learn about the many facets of GitHub Advanced S
 ## How the environment works
 GitHub works on a hierarchical structure. At the highest-level, you have an enterprise.  Within and enterprise, there are organizations (we call them orgs).  Within orgs, there are repos, which is where the source code is stored.  To make sure your experience during this bootcamp is as similar as possible to your real-world environment, we've provisioned a separate GitHub org for each student.  This org is all yours!  
 
-Each of the learning modules are individual repositories within the org. Throughout the bootcamp session, we'll be navigating through the GitHub UI.  Want to learn a little more about how to use GitHub?  Check out the Intro to GitHub class on [skills.github.com](https://skills.github.com/).
+Throughout the bootcamp session, we'll be navigating through the GitHub UI.  Want to learn a little more about how to use GitHub?  Check out the Intro to GitHub class on [skills.github.com](https://skills.github.com/).
 
 ## How do I get started?
-Ah, aren't you an eager beaver 😉.  Typically, this is a classroom delivered learning experience.  Maybe you want to get started before your class?  Maybe you just have sneaky access to one of these orgs?  Either way, we're just glad you're here.  
-
-Each of the repositories inside this org represent a different learning module.  Take some time going through each of the repos to see what kind of cool things you'll learn.  Maybe try starting with the `code-scanning` repo.
+Ah, aren't you an eager beaver 😉.  Typically, this is a classroom delivered learning experience.  Your instructor will guide you through the content on the day of your bootcamp.
 
 ## Where can I find help?
 The last thing we want is for you to feel left behind!  PLEASE ask your instructor if you have any questions throughout this session.  Most of us are are really nice and would prefer you to interrupt us with questions.  
